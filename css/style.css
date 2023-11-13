@@ -1,0 +1,30 @@
+html{
+    height: 100%;
+    text-align: center;
+    background-image: url(/img/background.png);
+}
+
+ul {
+    list-style-type:  none;
+    display: inline-flex;
+  }
+
+  li{
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: white;
+    border-radius: 20px;
+  }
+
+
+h1{
+    color: greenyellow;
+}
+
+a{
+    color: green;
+    text-decoration: none;
+    font-weight: 900;
+}
