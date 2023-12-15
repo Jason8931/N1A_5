@@ -1,7 +1,7 @@
 html{
     height: 100%;
     text-align: center;
-    background-image: url(/img/background.png);
+    background-color: #181818;
 }
 
 ul {
@@ -16,6 +16,7 @@ ul {
     padding-bottom: 5px;
     background-color: white;
     border-radius: 20px;
+    margin: 20px;
   }
 
 
